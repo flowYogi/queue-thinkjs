@@ -1,0 +1,21 @@
+{
+  "name": "queue-thinkjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flowYogi/queue-thinkjs.git"
+  },
+  "author": "Guo_rf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flowYogi/queue-thinkjs/issues"
+  },
+  "homepage": "https://github.com/flowYogi/queue-thinkjs#readme"
+}

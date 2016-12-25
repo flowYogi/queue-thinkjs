@@ -1,0 +1,16 @@
+{
+  "apps": [{
+    "name": "queue-thinkjs",
+    "script": "www/production.js",
+    "cwd": "/Users/guorunfeng/Documents/project/queue-thinkjs",
+    "exec_mode": "cluster",
+    "instances": 0,
+    "max_memory_restart": "1G",
+    "autorestart": true,
+    "node_args": [],
+    "args": [],
+    "env": {
+      
+    }
+  }]
+}
